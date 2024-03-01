@@ -6,5 +6,4 @@ if hungry=="yes" and hungry=="Yyyy":
     print("Eat fries")
 else:
     thirsty=input("Are you thirsty? ")
-    if thirsty=="yes":
-        print()
+    print("Drink water")
