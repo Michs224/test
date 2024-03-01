@@ -7,3 +7,4 @@ if hungry=="yes" and hungry=="Ye":
 else:
     thirsty=input("Are you thirsty? ")
     if thirsty=="yes":
+        pass
